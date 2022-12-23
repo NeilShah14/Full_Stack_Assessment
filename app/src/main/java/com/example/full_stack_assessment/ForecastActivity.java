@@ -33,9 +33,15 @@ public class ForecastActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_forecast);
 
-        forecastViewModel = new ForecastViewModel();
-        //ToDo: Fetch the results from the ViewModel and populate the forecast card
+        forecastViewModel = new ForecastViewModel(this);
+
+    }
+
+    public Integer forecastToIcon(String str){
+
+        return forecastMap.getOrDefault(str, -1);
     }
 
 }
