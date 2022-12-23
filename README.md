@@ -44,5 +44,8 @@ When you have completed the assessment, email molly@ascentitech.com with the lin
 
 ## Final Questions
 1) How long did the assessment take to complete?  Was there any task that took significantly longer than the others, and if so why?
+Answer-> It took me 1 hour and 58 minutes. The particular part which took me longer was implementing Recycler View and also figuring out Retrofit, as I was used to Volley. But after trying I got to know that Retrofit has better compatibility.
 2) Were there any tasks that you initially did not know how to complete? And if so, how did you approach them and take the steps to learn how to complete them? (It’s okay if the answer is yes! Everyone learns on the job at some point)
-3) Was this assessment feasible for the time given and relatively easy to follow? Any points of feedback? 
+Answer-> Retrofit was comparitvely new and I had to understand how files that you provided in the template were co-related. Studying and Implementing made it altogether more interesting and worthwhile.
+3) Was this assessment feasible for the time given and relatively easy to follow? Any points of feedback?
+Answer-> It was very much feasible. On the contrary your answers and patience very even more motivating and simplified a lot, even though it seemed pretty direct(my doubts) but your clarification eased the question understanding a lot.
